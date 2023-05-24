@@ -69,6 +69,12 @@
             "expression": "1",
             "formatString": "0",
             "lineageTag": "1820fc2b-3fa1-4a4d-ac2d-0a7d8563cc08"
+          },
+          {
+            "name": "test_2",
+            "expression": "2",
+            "formatString": "0",
+            "lineageTag": "acd413a7-16b9-45a9-9253-0a8d23a1af85"
           }
         ],
         "annotations": [
