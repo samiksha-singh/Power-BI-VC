@@ -63,6 +63,14 @@
             }
           }
         ],
+        "measures": [
+          {
+            "name": "test",
+            "expression": "1",
+            "formatString": "0",
+            "lineageTag": "1820fc2b-3fa1-4a4d-ac2d-0a7d8563cc08"
+          }
+        ],
         "annotations": [
           {
             "name": "PBI_ResultType",
